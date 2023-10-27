@@ -1,0 +1,36 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form{
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    align-items: center;
+    text-align: center;
+    padding-top: 15%;
+    background-color: chartreuse;
+    margin: auto;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.form .form_email-input {
+    padding: 10px;
+    border: 2px solid black;
+    width: 100%;
+}
+.form .form_password-input {
+    padding: 10px;
+    border: 2px solid black;
+    width: 100%;
+}
+.form .form-btn {
+    padding: 10px;
+    border: 2px solid black;
+    width: 100%;
+} */
